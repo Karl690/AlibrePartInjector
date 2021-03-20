@@ -1,0 +1,9 @@
+C:\Users\karl6\Desktop\AlibreConsoleApp\AlibreConsoleApp\bin\Debug\AlibreConsoleApp.exe.config
+C:\Users\karl6\Desktop\AlibreConsoleApp\AlibreConsoleApp\bin\Debug\AlibreConsoleApp.exe
+C:\Users\karl6\Desktop\AlibreConsoleApp\AlibreConsoleApp\bin\Debug\AlibreConsoleApp.pdb
+C:\Users\karl6\Desktop\AlibreConsoleApp\AlibreConsoleApp\bin\Debug\AlibreX.dll
+C:\Users\karl6\Desktop\AlibreConsoleApp\AlibreConsoleApp\obj\Debug\AlibreConsoleApp.csprojAssemblyReference.cache
+C:\Users\karl6\Desktop\AlibreConsoleApp\AlibreConsoleApp\obj\Debug\AlibreConsoleApp.csproj.CoreCompileInputs.cache
+C:\Users\karl6\Desktop\AlibreConsoleApp\AlibreConsoleApp\obj\Debug\AlibreConsoleApp.csproj.CopyComplete
+C:\Users\karl6\Desktop\AlibreConsoleApp\AlibreConsoleApp\obj\Debug\AlibreConsoleApp.exe
+C:\Users\karl6\Desktop\AlibreConsoleApp\AlibreConsoleApp\obj\Debug\AlibreConsoleApp.pdb
